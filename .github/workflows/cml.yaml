@@ -1,4 +1,4 @@
-name: CML
+name: CML1
 on: [push]
 jobs:
   run:
